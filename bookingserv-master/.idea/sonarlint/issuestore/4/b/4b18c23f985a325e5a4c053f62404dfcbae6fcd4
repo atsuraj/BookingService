@@ -1,0 +1,42 @@
+
+s
+java:S1128"VRemove this unused import 'org.springframework.web.bind.MissingPathVariableException'.(•°”8­Ò¼±/
+|
+java:S1128
+"_Remove this unused import 'org.springframework.http.converter.HttpMessageNotWritableException'.(Í¾›‚8­Ò¼±/
+{
+java:S1128"YRemove this unused import 'org.springframework.web.bind.MethodArgumentNotValidException'.(Ñîœ¥ÿÿÿÿÿ8­Ò¼±/
+z
+java:S1128"XRemove this unused import 'org.springframework.web.HttpMediaTypeNotAcceptableException'.(üÍÆıÿÿÿÿ8­Ò¼±/
+„
+java:S1128"gRemove this unused import 'org.springframework.web.context.request.async.AsyncRequestTimeoutException'.(·ê©ğ8­Ò¼±/
+u
+java:S1128"XRemove this unused import 'org.springframework.web.bind.ServletRequestBindingException'.(”ŸÒŠ8­Ò¼±/
+
+java:S1130+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‘†ÚÅÿÿÿÿÿ8öìØ‘±/
+n
+java:S1128"LRemove this unused import 'org.springframework.beans.TypeMismatchException'.(ïÎÒ·øÿÿÿÿ8­Ò¼±/
+†
+java:S1128"iRemove this unused import 'org.springframework.web.multipart.support.MissingServletRequestPartException'.(ñ’«ˆ8­Ò¼±/
+b	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(ÙÑÄ›8¬îÀ±/
+t
+java:S1128"WRemove this unused import 'org.springframework.web.HttpMediaTypeNotSupportedException'.(ĞŞ¨Å8­Ò¼±/
+q
+java:S1128"TRemove this unused import 'org.springframework.web.servlet.NoHandlerFoundException'.(Ëş¥³8­Ò¼±/
+Q
+java:S3740%"/Provide the parametrized type for this generic.(¼ÙËúÿÿÿÿÿ8¬îÀ±/
+~
+java:S1128"aRemove this unused import 'org.springframework.web.bind.MissingServletRequestParameterException'.(­™¥¬8­Ò¼±/
+Q
+java:S3740-"/Provide the parametrized type for this generic.(Å©’ëùÿÿÿÿ8ÑÖ¿±/
+|
+java:S1128	"_Remove this unused import 'org.springframework.http.converter.HttpMessageNotReadableException'.(õ¡ú¸8­Ò¼±/
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(‘†ÚÅÿÿÿÿÿ8ª ‘±/
+f
+java:S1128"IRemove this unused import 'org.springframework.validation.BindException'.(¬€Ìü8­Ò¼±/
+s
+java:S1128"VRemove this unused import 'org.springframework.beans.ConversionNotSupportedException'.(©ãû8­Ò¼±/
+}
+java:S1128"[Remove this unused import 'org.springframework.web.HttpRequestMethodNotSupportedException'.(³ÄÉÈÿÿÿÿÿ8­Ò¼±/
+‰
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙÑÄ›8âøõ‘±/
